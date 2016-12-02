@@ -8,6 +8,7 @@
 
 <div class="well well-sm text-right">
     <a id="btn-new-Proyecto" class="btn btn-primary" href="?c=Proyecto&a=Crud">Nuevo Proyecto</a>
+    <a id="btn-new-Proyecto" class="btn btn-danger" href="pdf.php">Exportar PDF</a>
 </div>
 
 <table class="table table-striped">
